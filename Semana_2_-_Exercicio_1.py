@@ -1,5 +1,10 @@
 import pandas as pd
 
+# 1 - Você participa de um projeto de pesquisa de
+# história econômica. O seu orientador te pede para listar os principais
+# eventos da Revolução Russa, e quanto tempo, em dias, cada um desses
+# eventos demorou para acontecer após o início da revolução.
+
 # Criação da tabela com eventos e datas
 data = {
     "Evento": [
